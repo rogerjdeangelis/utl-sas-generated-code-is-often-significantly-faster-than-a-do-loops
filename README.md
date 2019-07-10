@@ -6,8 +6,11 @@ SAS generated code is often significantly faster than a do loops
     Analysis insired by                                                                                                          
     Joe Matise                                                                                                                   
     snoopy369@gmail.com                                                                                                          
-    on SAS-L                                                                                                                     
-                                                                                                                                 
+    on SAS-L  
+                                                                                                                     
+    https://tinyurl.com/yxrjmyaa                                                                                           
+    https://listserv.uga.edu/cgi-bin/wa?A2=ind1907a&L=SAS-L&O=D&X=929B10BDE4F86C3558&Y=rogerjdeangelis%40gmail.com&P=10425 
+                                                                                                                                                                                                                                                     
     Problem                                                                                                                      
       Given a 25 element array.                                                                                                  
       If any element =0 then set element to 1                                                                                    
